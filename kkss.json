@@ -1,119 +1,28 @@
 {
   "keys": [
-   {
-    "key": "HELLTOOLS.GNUGCY5ZT5Q4I44X2B",
-    "expires": "2024-12-14T16:41:40.302Z"
-  },
-  {
-    "key": "HELLTOOLS.5QDUDG453IS6WGZNJE",
-    "expires": "2024-12-14T16:41:40.302Z"
-  },
-  {
-    "key": "HELLTOOLS.VHCA3I4FA5GV3GJXWF",
-    "expires": "2024-12-14T16:41:40.302Z"
-  },
-  {
-    "key": "HELLTOOLS.58AOFNFJDM71NCD748",
-    "expires": "2024-12-14T16:41:40.302Z"
-  },
-  {
-    "key": "HELLTOOLS.UQEWRDAQ4VO56SG8DW",
-    "expires": "2024-12-14T16:41:40.302Z"
-  },
-  {
-    "key": "HELLTOOLS.M7HOQ8VI55SY7TJZMI",
-    "expires": "2024-12-10T15:13:24.056Z"
-  },
-  {
-    "key": "HELLTOOLS.LP3P6OPHXVU5SD4MG1",
-    "expires": "2024-12-10T15:13:24.056Z"
-  }
-
-  {
-    "key": "HELLTOOLS.MJZ35NF13EAZ378OQX",
-    "expires": "2024-12-09T07:52:05.250Z"
-  },
-  {
-    "key": "HELLTOOLS.YZ9RYWCNXZM2R2DTOY",
-    "expires": "2025-01-02T21:58:54.147Z"
-  },
  {
-    "key": "HELLTOOLS.7H66JNNPU8EJR7W6QL",
-    "expires": "2024-12-10T19:11:56.480Z"
-  },
-    {
-    "key": "HELLTOOLS.HZNVCR1D88N6FNQOTI",
-    "expires": "2024-12-10T19:21:10.201Z"
-  },
-
-
-
-
-
-
-
-     {
-    "key": "HELLTOOLS.7374ERDEMKTVRGM6OG",
-    "expires": "2025-01-01T08:20:24.344Z"
+    "key": "HELLTOOLS.XAVDDLZHU4I477GN2S",
+    "expires": "2024-12-14T16:59:37.589Z"
   },
   {
-    "key": "HELLTOOLS.PPO3CQNZ94F9JN321G",
-    "expires": "2025-03-02T08:20:28.490Z"
+    "key": "HELLTOOLS.6VR2KX92KJNI8LFS6B",
+    "expires": "2024-12-14T16:59:37.589Z"
   },
   {
-    "key": "HELLTOOLS.Q7292T87MT135Q9V9J",
-    "expires": "2024-12-14T20:29:35.938Z"
-  },
-  
-  {
-    "key": "HELLTOOLS.22518IACE57OKWT4HK",
-    "expires": "2024-12-07T11:59:10.660Z"
+    "key": "HELLTOOLS.ZPJJ9TN5JZN8UVF41H",
+    "expires": "2024-12-14T16:59:37.589Z"
   },
   {
-    "key": "HELLTOOLS.9BD63OZNA7JAW4LSEH",
-    "expires": "2025-11-20T19:44:46.855Z"
-  }, 
-  {
-    "key": "HELLTOOLS.LZVM4SSJNFTQVC9QNL",
-    "expires": "2025-11-22T16:20:45.168Z"
-  },
-    {
-    "key": "HELLTOOLS.X7ONK1UMYW8TP97N6T",
-    "expires": "2024-12-24T11:13:34.747Z"
+    "key": "HELLTOOLS.1R4B5KRH1P2BPMSAWR",
+    "expires": "2024-12-14T16:59:37.589Z"
   },
   {
-    "key": "HELLTOOLS.H1S68JCT1UW6994FHI",
-    "expires": "2024-12-01T21:35:59.193Z"
+    "key": "HELLTOOLS.EEYG5VG72H4TKICE9D",
+    "expires": "2024-12-14T16:59:37.589Z"
   },
   {
-    "key": "HELLTOOLS.JHLSVKBL9XN8RR1LYL",
-    "deviceId": "1",
-    "ip": "130.193.241.104",
-    "expires": "2024-11-29T13:38:47.505Z"
-  },
-  {
-    "key": "HELLTOOLS.7D2ISIAII9ZE3OGVXE",
-    "deviceId": "1",
-    "ip": "130.193.241.104",
-    "expires": "2024-11-29T13:38:47.505Z"
-  },
-  {
-    "key": "HELLTOOLS.94GJQH9NOFTEOR3FGN",
-    "deviceId": "1",
-    "ip": "130.193.241.104",
-    "expires": "2024-11-29T13:38:47.505Z"
-  },
-  {
-    "key": "HELLTOOLS.XXQA5TS7DY956MDHFG",
-    "deviceId": "1",
-    "ip": "130.193.241.104",
-    "expires": "2024-11-29T13:38:47.505Z"
-  },
-  {
-    "key": "HELLTOOLS.A5VOR2A6V1VST8Q8TH",
-    "deviceId": "1",
-    "ip": "130.193.241.104",
-    "expires": "2024-11-29T13:38:47.505Z"
+    "key": "HELLTOOLS.JD4JLLKGOLS15RVODM",
+    "expires": "2025-12-14T15:00:46.456Z"
   }
 
   ]
